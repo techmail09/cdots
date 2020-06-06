@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">cdots</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="post_grocery">OK</string>
+    <string name="mobile_number">Mobile number</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="address">Enter Address</string>
+    <string name="grocery_list">Enter Requirement</string>
+    <string name="mobile_number_label">Mobile</string>
+    <string name="email_label">Email</string>
+    <string name="name_label">Name</string>
+    <string name="address_label">Address</string>
+    <string name="grocery_list_label">Requirement</string>
+</resources>
