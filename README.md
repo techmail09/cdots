@@ -1,5 +1,7 @@
 # cdots
 
+Watch the video by clicking the image below
+
 [![CDOTS Demo](https://img.youtube.com/vi/HTRjLrACOg8/maxresdefault.jpg)](https://www.youtube.com/watch?v=HTRjLrACOg8)
 
 # Overview
