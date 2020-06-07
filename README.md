@@ -49,6 +49,10 @@ python app.py
 
 # Run the android app on your mobile phone
 
+Install app.apk on your Android device to use it
+
+
+Compliation of app, however it is not required for Demo:
 Edit the backend connection string
 ```
 Compile the apk & setup in your android device.
